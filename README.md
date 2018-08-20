@@ -11,9 +11,9 @@ Once you get into the workforce, building out comps that reflect the designer's 
 Your challenge is to recreate the following image using HTML and CSS. 
 
 ## Getting Started
-Open up your set-list repo and update your songs/index.erb file to reflect the one provided.
+Open up YOUR FORK of the [set-list repo](https://github.com/turingschool-examples/set-list) and update your songs/index.erb file to reflect the one provided.
 
-Add the `style.css` file within the public folder.
+Add the `style.css` file within the `public` folder.
 
 You likley only have four songs in the database, so open up tux and add the following: 
 
@@ -25,10 +25,11 @@ Song.create(title: "Firework", length: 205, Play Count: 38760)
 ```
 
 ## Base Requirements
-Use two different fonts that you import. I like to use [Google Fonts](https://fonts.google.com/)
-You can use a different image than the one provided if you would like. 
-Only work for one hour!
-Include a screenshot of your work in a browser
-Submit your work through a PR
+
+- Use two different fonts that you import. I like to use [Google Fonts](https://fonts.google.com/)
+- You can use a different image than the one provided if you would like. 
+- Only work for one hour!
+- Take a screenshot of your work in a browser and put it in the root folder of your set-list repo, add it to git
+- Make a pull request to Turing's set-list repo so we can see your HTML/CSS work.
 
 ![this](songs-page.png)
