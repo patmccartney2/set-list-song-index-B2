@@ -19,7 +19,7 @@ You likley only have four songs in the database, so open up tux and add the foll
 
 ``` 
 Song.create(title: "Float On", length: 208, play_count: 78900)
-Song.create(title: "Thriller", length: 357, play count: 87030)
+Song.create(title: "Thriller", length: 357, play_count: 87030)
 Song.create(title: "I Wanna Dance With Somebody", length: 149, play_count: 60438)
 Song.create(title: "Firework", length: 205, play_count: 38760)
 ```
