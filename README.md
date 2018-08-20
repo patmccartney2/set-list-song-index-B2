@@ -18,10 +18,10 @@ Add the `style.css` file within the `public` folder.
 You likley only have four songs in the database, so open up tux and add the following: 
 
 ``` 
-Song.create(title: "Float On", length: 208, Play Count: 78900)
-Song.create(title: "Thriller", length: 357, Play Count: 87030)
-Song.create(title: "I Wanna Dance With Somebody", length: 149, Play Count: 60438)
-Song.create(title: "Firework", length: 205, Play Count: 38760)
+Song.create(title: "Float On", length: 208, play_count: 78900)
+Song.create(title: "Thriller", length: 357, play count: 87030)
+Song.create(title: "I Wanna Dance With Somebody", length: 149, play_count: 60438)
+Song.create(title: "Firework", length: 205, play_count: 38760)
 ```
 
 ## Base Requirements
